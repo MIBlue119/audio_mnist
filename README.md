@@ -7,8 +7,9 @@
 - AudioMNIST Paper: [https://arxiv.org/pdf/1807.03418.pdf](https://arxiv.org/pdf/1807.03418.pdf)
 
 
-
-
+## To DO 
+- [ ] Implement an audio classifier with Pytorch 
+- [ ] Implement an audio classifier with Pytorch Lightning 
 
 
 
@@ -19,7 +20,7 @@
     - https://uvadlc-notebooks.readthedocs.io/en/latest/
     - https://github.com/vahidk/EffectivePyTorch
     - https://github.com/phlippe/uvadlc_notebooks
-    
+
 - lighting-hydra template
     - https://github.com/ashleve/lightning-hydra-template
 - Pytorch example for speech commands
