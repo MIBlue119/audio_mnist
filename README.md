@@ -21,6 +21,22 @@
     - https://github.com/vahidk/EffectivePyTorch
     - https://github.com/phlippe/uvadlc_notebooks
 
+- How to write the dataset/dataloader with Pytorch?
+    - Pytorch Audio Datasets Example, includes gtzan,librispeech,speechcommands,vctk etc....
+        - https://github.com/pytorch/audio/tree/main/torchaudio/datasets 
+    - Many audio source separation datasets writing examples
+        - https://github.com/asteroid-team/asteroid/tree/master/asteroid/data 
+    - How did FB/Research write their Dataset/Dataloader for audio processing? 
+        -  https://github.com/facebookresearch/denoiser/blob/main/denoiser/audio.py
+    - How did SpeechBrain design their Dataset/Dataloader?
+        - https://github.com/speechbrain/speechbrain/blob/develop/speechbrain/dataio/dataset.py
+    - Writing custom datasets, dataloaders and transformers
+        - https://pytorch.org/tutorials/beginner/data_loading_tutorial.html  
+    - A detailed example of how to generate your data in parallel with Pytorch?
+        - https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel  
+    - Building Efficient Custom Datasets in Pytorch?
+        - https://towardsdatascience.com/building-efficient-custom-datasets-in-pytorch-2563b946fd9f
+
 - lighting-hydra template
     - https://github.com/ashleve/lightning-hydra-template
 - Pytorch example for speech commands
